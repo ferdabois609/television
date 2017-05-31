@@ -1,4 +1,4 @@
 #television     
-<style>title{backround-color:blue}
+<style>heading{textcolor:blue}
       p{color:purple;}    
        h1{color:magenta;}</style>
